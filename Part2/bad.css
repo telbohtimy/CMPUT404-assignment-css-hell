@@ -1,0 +1,48 @@
+.bottom{
+	position:fixed;
+    height:2em;
+	bottom:3px;
+	width:100%;
+	}
+.left{
+    transform:rotate(10deg);
+	float:left;
+	}
+.right{
+    transform:rotate(-10deg);
+	float:right;
+	}
+.header{
+	size:120%;
+	color:cyan;
+	}
+.pink{
+	color:pink;
+	}
+.orange{
+	color:orange;
+	}
+.yellow{
+	color:yellow;
+	}
+.purple{
+	color:purple;
+	}
+	
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	float:right;
+	color:red;
+	}
+p,h1 {
+	text-align:center;
+	}	
+img{
+	height:10em; 
+    width:10em; }
+html{
+	background-image:url('images/starry.jpg');
+	background-size:100% 100%;
+}

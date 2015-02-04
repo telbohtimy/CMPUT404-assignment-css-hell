@@ -1,0 +1,19 @@
+p{color:black; 
+   font-family:Blackadder ITC,serif;
+   font-size:130%}
+pre{ font-style:italic;}
+body{background-image:url("background2.jpg");
+	 background-size:contain;
+     margin-right:10em;
+	 margin-left:10em;
+	 text-align:center}
+h1,h2,h3,h4{
+     font-family:Algerian,serif;
+	 color:black;
+	 text-align:center;}
+img{height:30em; 
+    width:30em; 
+	margin-left:auto;
+	margin-right:auto;
+	display:block; 
+	border:2px solid black;}
