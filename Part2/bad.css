@@ -1,5 +1,4 @@
-.bottom{
-	position:fixed;
+.bottom{	
     height:2em;
 	bottom:3px;
 	width:100%;
@@ -16,8 +15,8 @@
 	size:120%;
 	color:cyan;
 	}
-.pink{
-	color:pink;
+.green{
+	color:green;
 	}
 .orange{
 	color:orange;
@@ -28,7 +27,13 @@
 .purple{
 	color:purple;
 	}
-	
+.centre{
+	display: table;
+    margin: 0 auto;
+	background:red;
+	width:100%;
+	text-align:center;
+}	
 ul{
 	list-style-type:none;
 	margin:0;
@@ -39,11 +44,29 @@ ul{
 p,h1 {
 	text-align:center;
 	}	
+p{
+	font-size:110%;
+	}
 img{
 	height:10em; 
-    	width:10em; }
+	width:10em; }
 html{
 	background-image:url('images/starry.jpg');
 	background-size:100% 100%;
-	height:100%;
-}
+	background-repeat: no-repeat;
+	height:125%;
+	}
+ul li{
+	text-align:center;
+   }
+a{
+	margin-right:10em;
+	font-size:130%;
+	color:white;
+	}
+a:hover{
+	color:yellow;
+	}
+a:link {
+    text-decoration: none;
+	}
