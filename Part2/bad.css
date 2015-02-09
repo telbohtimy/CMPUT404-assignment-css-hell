@@ -59,6 +59,9 @@ html{
 ul li{
 	text-align:center;
    }
+ ul{
+	padding:0 0 19em 0;
+	}
 a{
 	margin-right:10em;
 	font-size:130%;

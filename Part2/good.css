@@ -12,6 +12,7 @@
 	height:10em; 
     width:10em; 
 	float:left;
+	padding: 1em;
 	}
 .size2{
 	height:10em; 
@@ -30,12 +31,12 @@
 	text-align:center;
 	}
 .bottom{	
-    height:2em;
-	bottom:3px;
 	width:100%;
-	text-align:center;
+	height:3em;
+	text-align:right;
 	background: linear-gradient(grey, black);
 	color:white;
+	overflow: hidden
 	}
 body {
 	padding:0; 
@@ -45,7 +46,7 @@ body {
 ul{
 	list-style-type:none;
 	margin:0;
-	padding:0;
+	padding:0 0 20em 0;
 	float:right;
 	background-color: #dddddd;
 	}
