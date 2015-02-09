@@ -24,5 +24,5 @@ Code is licensed under the Apache 2.0 license.
 Part 1 Changes
 =================
 
-All paragraph tags the font color was turned black, and the font style was changed to Blackadder ITC,serif and the font size was increased by 130%.  Pre tags were all italicized.  All headers the font was changed to Algerian,serif and they were all centered. The body  had a background image added that matches the width of the screen but repeats in height. A left and right margin of 10 em was added and all the text was centered.  All images were resized to 30 em for the height and width and are centered, they also all have a 2 px black border around them to make them stand out a little better.
+All paragraph tags the font color was turned black, and the font style was changed to Georgia, serif and the font size was increased by 130%.  Pre tags were all italicized.  All headers the font was changed to Arial Black,serif and they were all centered. The body  had a background image added that matches the width of the screen but repeats in height. A left and right margin of 10 em was added and all the text was centered.  All images were resized to 30 em for the height and width and are centered, they also all have a 2 px black border around them to make them stand out a little better.
 
